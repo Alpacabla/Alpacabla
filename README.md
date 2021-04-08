@@ -3,8 +3,8 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/13ec2dfdc33a50531d3efeab85c31d48" target="_blank">📊 Weekly development breakdown</a>
 ```text
-C++                 🕓 4h54m ███████████████████▉░ 94.7%
-Sublime Text Config 🕓 16m   █░░░░░░░░░░░░░░░░░░░░  5.3%
+C++                 🕓 7h17m ████████████████████▏ 96.4%
+Sublime Text Config 🕓 16m   ▊░░░░░░░░░░░░░░░░░░░░  3.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
