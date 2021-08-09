@@ -3,7 +3,8 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/13ec2dfdc33a50531d3efeab85c31d48" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+C++     🕓 11h16m ████████████████████▉100.0%
+Cheetah 🕓 0s     ░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
